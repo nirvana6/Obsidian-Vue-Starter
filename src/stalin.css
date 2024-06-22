@@ -1,0 +1,15 @@
+.el-menu {
+	background-color: #d3dce6;
+}
+
+.el-card {
+	margin-top: 1%;
+}
+
+.el-input__wrapper {
+	padding: 0 !important;
+}
+
+.view-header {
+	display: none !important;
+}
